@@ -90,6 +90,8 @@ class ViewController: UIViewController {
 
 Y se verá una vista modal (reducida con fondo transparente) estilo pop up =D
 
+Si queremos customizarlo podemos hacer cambios directamente a la clase *PopupController* o consultar la documentación del pod.
+
 ## Fuente
 
 * <a href="https://github.com/daisuke310vvv/PopupController">Pod: PopupController</a>
